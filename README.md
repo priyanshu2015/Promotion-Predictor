@@ -1,2 +1,2 @@
 # Promotion-Predictor
-Using ML, Flask, Bootstrap. Will predict the probability of promotion of an employee.
+Using ML, Flask, Bootstrap. Will predict the probability of promotion of an employee using certain parameters.
